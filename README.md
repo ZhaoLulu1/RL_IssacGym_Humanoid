@@ -1,6 +1,8 @@
 # Declaration:
 This code is only used for my poster project practice.
+
 The aim of this repository is to become acquainted with the MuJoCo environment and to understand the dynamics of the Humanoid robot.
+
 This code is based on inspiration from: https://github.com/huanzhang12/SA_PPO
 
 ## Setup
